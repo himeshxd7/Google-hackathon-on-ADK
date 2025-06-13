@@ -1,0 +1,6 @@
+Flask
+requests
+markdown2
+wikipedia
+google-generativeai
+gunicorn
